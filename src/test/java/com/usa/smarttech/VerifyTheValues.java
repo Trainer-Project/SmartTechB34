@@ -21,6 +21,7 @@ public class VerifyTheValues {
 			System.out.println("Fahim want to sale his stock by buying price");
 		}
 
+		
 		else {
 			System.out.println("Didn't buy or sale any stocks");
 
