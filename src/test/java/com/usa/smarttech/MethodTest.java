@@ -20,11 +20,6 @@ public class MethodTest {
 	public void getNames(String name) {
 		System.out.println(name);
 	}
-
-	
-	public void tyutuiubjbjlvhv,(String name) {
-		System.out.println(name);
-	}
 	
 	public static void main(String[] args) {
 		MethodTest.getEmp();
