@@ -16,6 +16,10 @@ public class MethodTest {
 	public void getName(String name) {
 		System.out.println(name);
 	}
+	
+	public void getNames(String name) {
+		System.out.println(name);
+	}
 
 	
 	public static void main(String[] args) {
