@@ -22,6 +22,10 @@ public class MethodTest {
 	}
 
 	
+	public void tyutuiubjbjlvhv,(String name) {
+		System.out.println(name);
+	}
+	
 	public static void main(String[] args) {
 		MethodTest.getEmp();
 		MethodTest obj = new MethodTest();
