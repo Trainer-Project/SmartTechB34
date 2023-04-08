@@ -22,6 +22,11 @@ public class MethodOverloading {
 		System.out.println(dollar);
 
 	}
+	
+		public void getHouny(double dollar, int salary) {
+		System.out.println(dollar);
+
+
 	public static void main(String[] args) {
 		MethodOverloading obj = new MethodOverloading();
 		obj.getMoney(100000);
