@@ -14,10 +14,7 @@ public class VerifyTheValues {
 			System.out.println("Fahim buy the stocks");
 		} else if (teslaPrice == 195) {
 			System.out.println("Fahim want to sale his stock by buying price");
-
-		} else if (teslaPrice == 195) {
-			System.out.println("Fahim want to sale his stock by buying price");
-		} else {
+	        else {
 			System.out.println("Didn't buy or sale any stocks");
 
 		}
