@@ -24,5 +24,8 @@ public class Human {
 		System.out.println(num);
 
 	}
+	
+	public void getSalary(){
+	System.out.println("git practice");	
 
 }
