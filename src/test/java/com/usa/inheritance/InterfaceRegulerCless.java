@@ -1,6 +1,6 @@
 package com.usa.inheritance;
 
-public class InterfaceRegulerCless implements InterFaceA, InterFaceB{
+public class InterfaceRegulerCless implements InterFaceA, InterFaceB, InterFaceC{
 
 	public void getJob() {
 		System.out.println("Fahim need IT job badly");
@@ -19,6 +19,11 @@ public class InterfaceRegulerCless implements InterFaceA, InterFaceB{
 		obj.getPropertiesA();
 		obj.getPropertiesB();
 		obj.getJob();
+	}
+
+	public void getName() {
+		// TODO Auto-generated method stub
+		
 	}
 	
 

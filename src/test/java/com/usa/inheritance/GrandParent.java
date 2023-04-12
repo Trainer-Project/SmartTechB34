@@ -2,7 +2,7 @@ package com.usa.inheritance;
 
 public class GrandParent {
 	
-	public void getGrandParentProperties(){
+	protected void getGrandParentProperties(){
 		System.out.println("GrandParent property -> Land Property");
 	}
 	

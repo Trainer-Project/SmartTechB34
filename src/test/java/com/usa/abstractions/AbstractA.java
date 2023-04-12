@@ -8,13 +8,12 @@ public abstract class AbstractA {
 
 	public void getName() {
 		System.out.println("This is concrete method");
-
 	}
 
 	public void getTesla() {
 		System.out.println("This is concrete method");
-
 	}
+	
 	public abstract void getAbstract();
 	
 
