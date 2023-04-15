@@ -17,8 +17,7 @@ public class LoginTest {
 		driver.manage().window().maximize();
 		
 		driver.findElement(By.name("email")).sendKeys("tanvirpatwary16@gmail.com");
-		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("Tester01");
-		
+		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("Tester01");	
 		driver.findElement(By.xpath("(//button[@type='submit'])[1]")).click();
 		//driver.close();
 	    //driver.quit();
