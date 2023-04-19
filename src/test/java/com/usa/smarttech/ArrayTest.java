@@ -9,7 +9,7 @@ public class ArrayTest {
 	// 3 7, 8, 9, 9, 4,
 	// 4 3, 5, 6, 7, 8,
 
-	public static void main(String[] args) {
+	public static void mainrtrt(String[] args) {
 		ArrayTest obj = new ArrayTest();
 		obj.getSingleDimensionArray();
 
@@ -64,5 +64,9 @@ public class ArrayTest {
 		// System.out.println(Arrays.toString(num));
 
 	}
+	public static void main(String[] args) {
+		for(int i = 100; i >=0; i--){
+		System.out.println(i);}
 
+}
 }
